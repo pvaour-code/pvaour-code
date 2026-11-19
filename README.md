@@ -15,7 +15,12 @@ I write, shoot and edit ads, then run them on Meta. I use retention and click-th
 
 ## Featured edit
 
-[![Watch ARV.1, a 23-second side-by-side comparison of raw footage and the finished edit.](assets/raw-to-edit.webp)](https://drive.google.com/file/d/1lOWCoYUu7LxhB78B4cBXJxBS0PpAn3Bu/view)
+<a href="https://drive.google.com/file/d/1lOWCoYUu7LxhB78B4cBXJxBS0PpAn3Bu/view">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/raw-to-edit.webp">
+    <img width="860" src="assets/raw-edit-reveal.gif" alt="Watch ARV.1. A vertical wipe reveals the finished colour edit of the same presenter. The full side-by-side reel runs 23 seconds.">
+  </picture>
+</a>
 
 [Watch ARV.1](https://drive.google.com/file/d/1lOWCoYUu7LxhB78B4cBXJxBS0PpAn3Bu/view) · [Explore my edited and AI-generated videos](https://altafhusain.netlify.app/#video-editing)
 
@@ -43,6 +48,15 @@ I built my own YouTube channel to **800K+ subscribers and 100M+ views** and earn
 | **AI Video Post-Production OS** | Designing an editing workflow for reusable captions, kinetic type and motion graphics across Premiere Pro and After Effects. |
 
 <!-- Optional animation: add a short CRM walkthrough here using fictional lead data. -->
+
+### Inside the B2B Lead CRM
+
+This illustrated demo follows one fictional catalogue enquiry from intake to assignment. The last step gives the sales rep a time to call back.
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/crm-demo.webp">
+  <img width="860" src="assets/crm-demo.gif" alt="Fictional lead 1042 requests a catalogue at 10:02. Demo Rep A takes ownership at 10:03 and schedules a call for 11:00 the next day.">
+</picture>
 
 ## Tools & Stack
 
