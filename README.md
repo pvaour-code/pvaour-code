@@ -8,6 +8,8 @@ I’m a growth marketer based in Delhi. I work on B2B lead generation in the tex
 
 I plan and run Meta ads, write and edit product creatives, and work with the sales team on lead follow-up. That last step shapes how I look at campaign performance. Alongside the cost per enquiry, I want to know which enquiries were qualified, who followed up, and which buyers visited the showroom.
 
+My YouTube work shapes how I test ads. I use audience retention to see where viewers drop off, then try a different opening shot or a tighter cut. [View my video work](https://altafhusain.netlify.app/#video-editing).
+
 ## Projects
 
 | Project | What I’m working on |
@@ -21,6 +23,7 @@ I plan and run Meta ads, write and edit product creatives, and work with the sal
 ## Tools & Stack
 
 - **Meta Ads** — Campaign setup, creative testing, and WhatsApp lead generation
+- **Google Ads & SEO** — Paid search campaigns and organic search content
 - **Google Sheets & Apps Script** — Lead assignment, follow-up tracking, and sales reporting
 - **Adobe Premiere Pro** — Product videos, ad edits, and captions
 - **Adobe After Effects** — Motion graphics and animated typography
@@ -30,7 +33,7 @@ I’m pursuing a B.Com through IGNOU and developing VAREN, a growth marketing ag
 
 ## Connect
 
-[GitHub](https://github.com/pvaour-code)
+[Portfolio](https://altafhusain.netlify.app/) · [Contact me](https://altafhusain.netlify.app/#contact)
 
 <!-- Replace each placeholder below, then move its line outside this comment.
 - [LinkedIn](YOUR_LINKEDIN_URL)
