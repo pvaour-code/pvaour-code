@@ -1,4 +1,9 @@
-[![Altaf Husain, Performance Creative Specialist in Delhi. I make the ad, then I make it perform. Two editing tracks show Hook, Concept, Edit and Launch, Test, Iterate.](assets/profile-header.webp)](https://altafhusain.netlify.app/)
+<a href="https://altafhusain.netlify.app/">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-header.webp">
+    <img width="1200" src="assets/edit-timeline.gif" alt="Altaf Husain, Performance Creative Specialist. An editor’s cursor scrubs a two-track timeline: Hook, Concept, Edit above Launch, Test, Iterate.">
+  </picture>
+</a>
 
 <!-- Optional animation: add a slim, self-hosted header visual here. -->
 
@@ -13,6 +18,17 @@ I write, shoot and edit ads, then run them on Meta. I use retention and click-th
 [![Watch ARV.1, a 23-second side-by-side comparison of raw footage and the finished edit.](assets/raw-to-edit.webp)](https://drive.google.com/file/d/1lOWCoYUu7LxhB78B4cBXJxBS0PpAn3Bu/view)
 
 [Watch ARV.1](https://drive.google.com/file/d/1lOWCoYUu7LxhB78B4cBXJxBS0PpAn3Bu/view) · [Explore my edited and AI-generated videos](https://altafhusain.netlify.app/#video-editing)
+
+<details>
+<summary><strong>How I choose the next cut</strong></summary>
+
+| What I see | What I test |
+| --- | --- |
+| Viewers leave in the opening seconds | Open on the result, then show how it happened. Compare retention against the original opening. |
+| People watch but rarely click | Keep the footage and test a clearer offer or call to action. |
+| Clicks lead to low-quality enquiries | Check whether the ad promises what the sales team can deliver. Test more specific copy and review the next batch of enquiries. |
+
+</details>
 
 ## Where I learned to edit for attention
 
