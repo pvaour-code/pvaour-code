@@ -55,6 +55,17 @@ I built my own YouTube channel to **800K+ subscribers and 100M+ views** and earn
 
 I’m studying commerce at IGNOU and 2D animation at Arena Animation. I’m also developing VAREN, my growth marketing agency project.
 
+## Contribution timeline
+
+<a href="https://github.com/pvaour-code#js-contribution-activity-description">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/contribution-base.png">
+    <img src="assets/contribution-cut.gif" width="1080" alt="GitHub activity snapshot, 19 November 2026. The playhead marks 4 contributions on 9 May, 1 on 28 September and 6 on 19 November.">
+  </picture>
+</a>
+
+[View the live contribution calendar](https://github.com/pvaour-code#js-contribution-activity-description)
+
 ## Connect
 
 [Portfolio](https://altafhusain.netlify.app/) · [Get in touch](https://altafhusain.netlify.app/#contact)
