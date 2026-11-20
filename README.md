@@ -1,7 +1,7 @@
 <a href="https://altafhusain.netlify.app/">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-header.webp">
-    <img width="1200" src="assets/edit-timeline.gif" alt="Altaf Husain, Performance Creative Specialist. An editor’s cursor scrubs a two-track timeline: Hook, Concept, Edit above Launch, Test, Iterate.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/gojo-poster.webp">
+    <img width="960" src="assets/gojo-timeline.gif" alt="Altaf Husain. Gojo stands beside an editing timeline as the playhead moves from Hook to Cut to Launch.">
   </picture>
 </a>
 
@@ -9,9 +9,9 @@
 
 # Altaf Husain · Performance Creative Specialist
 
-I write, shoot and edit ads, then run them on Meta. I use retention and click-through data to decide what to change in the next cut. AI video helps me test a new visual or opening without reshooting the whole ad.
+I’m based in Delhi. I write, shoot and edit ads, then run them on Meta. Watching where people drop off helps me choose the next cut. Tracking what happens after an enquiry helps me judge whether the ad reached the right buyer.
 
-[Portfolio](https://altafhusain.netlify.app/) · [Video editing archive](https://altafhusain.netlify.app/#video-editing) · [CV](https://altafhusain.netlify.app/cv/altaf-husain-cv.pdf)
+[Watch my work](https://altafhusain.netlify.app/#video-editing) · [Projects](#projects) · [Connect](#connect)
 
 ## Featured edit
 
@@ -25,67 +25,70 @@ I write, shoot and edit ads, then run them on Meta. I use retention and click-th
 [Watch ARV.1](https://drive.google.com/file/d/1lOWCoYUu7LxhB78B4cBXJxBS0PpAn3Bu/view) · [Explore my edited and AI-generated videos](https://altafhusain.netlify.app/#video-editing)
 
 <details>
-<summary><strong>How I choose the next cut</strong></summary>
+<summary><strong>Inside the edit</strong></summary>
 
-| What I see | What I test |
-| --- | --- |
-| Viewers leave in the opening seconds | Open on the result, then show how it happened. Compare retention against the original opening. |
-| People watch but rarely click | Keep the footage and test a clearer offer or call to action. |
-| Clicks lead to low-quality enquiries | Check whether the ad promises what the sales team can deliver. Test more specific copy and review the next batch of enquiries. |
+ARV.1 puts two versions of the same presenter side by side. Follow her face in the monochrome frame, then look at the warm light behind her in the colour edit. With the subject held constant, it’s easier to see what the grade contributes.
 
 </details>
 
-## Where I learned to edit for attention
+<details>
+<summary><strong>How I choose the next cut for a campaign</strong></summary>
 
-I built my own YouTube channel to **800K+ subscribers and 100M+ views** and earned a Silver Play Button. I handled the scripts, thumbnails and edits myself. That experience still shapes how I test ads: if viewers click but leave early, the first thing I revisit is whether the opening shot delivers what the thumbnail promised. [Creator background](https://altafhusain.netlify.app/#experience)
-
-## What I’m building
-
-| Project | Current work |
+| Signal | Next test |
 | --- | --- |
-| **B2B Lead CRM** | Testing salesperson-specific lead views in a Google Sheets and Apps Script CRM for assignments and follow-ups. |
-| **Meta Ads Growth OS** | Read-only account access is connected. I’m designing a workflow that turns campaign history into creative tests, with human approval for publishing and budget changes. |
-| **AI Video Post-Production OS** | Designing an editing workflow for reusable captions, kinetic type and motion graphics across Premiere Pro and After Effects. |
+| Viewers leave in the opening seconds | Bring the result into the first shot and compare opening retention. |
+| Viewers stay but rarely click | Keep the edit and test a more specific offer or call to action. |
+| Clicks produce poor-fit enquiries | Tighten the promise in the ad and review the next batch with sales. |
+
+</details>
+
+## Creator background
+
+I grew my YouTube channel to **800K+ subscribers and 100M+ views** and earned a Silver Play Button. I wrote the scripts, designed the thumbnails and edited the videos. One habit I carried into ads is checking the thumbnail against the first shot. If they promise different things, that’s where I start the next edit. [More about my experience](https://altafhusain.netlify.app/#experience)
+
+## Projects
+
+| Project | What I’m working on |
+| --- | --- |
+| <img src="assets/crm-cover.svg" width="225" alt="B2B Lead CRM — testing"> | I’m testing whether each salesperson sees their own assigned leads and can find the next follow-up in Google Sheets. [See the walkthrough](#crm-walkthrough) |
+| <img src="assets/ads-cover.svg" width="225" alt="Meta Ads Growth OS — read-only prototype"> | I’ve connected read-only campaign history. I’m designing the review that turns a past campaign into a creative test brief, with human approval for publishing and budget changes. |
+| <img src="assets/edit-cover.svg" width="225" alt="AI Video Post-Production OS — in design"> | I’m designing reusable captions and kinetic type that an editor can adjust in Premiere Pro and After Effects. |
 
 <!-- Optional animation: add a short CRM walkthrough here using fictional lead data. -->
 
-### Inside the B2B Lead CRM
+## Tools & Stack
 
-This illustrated demo follows one fictional catalogue enquiry from intake to assignment. The last step gives the sales rep a time to call back.
+| Workflow | Tools | What I use them for |
+| --- | --- | --- |
+| Create | Premiere Pro, After Effects, DaVinci Resolve, Photoshop | Cut footage, grade a shot, animate type and design thumbnails. |
+| Test | Meta Ads, Google Ads | Compare hooks and offers, review click-through and lead quality. |
+| Explore | Runway, Higgsfield, Veo, ChatGPT, Claude | Draft briefs and try alternative openings before a reshoot. |
+| Automate | Google Sheets, Apps Script | Assign enquiries, track follow-ups and prepare reports. |
+
+### CRM walkthrough
+
+A fictional buyer asks for a catalogue. A rep takes ownership and schedules a call for 11:00 the next day.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/crm-demo.webp">
   <img width="860" src="assets/crm-demo.gif" alt="Fictional lead 1042 requests a catalogue at 10:02. Demo Rep A takes ownership at 10:03 and schedules a call for 11:00 the next day.">
 </picture>
 
-## Tools & Stack
-
-| Discipline | Tools and practice |
-| --- | --- |
-| Performance marketing | Meta Ads, Google Ads, SEO, creative testing and campaign reporting |
-| Editing & motion | Adobe Premiere Pro, After Effects, DaVinci Resolve and Photoshop |
-| AI video & workflows | Runway, Higgsfield and Veo for visual variations. ChatGPT and Claude for briefs and workflow design. |
-| Automation | Google Sheets and Apps Script for lead routing, follow-up and reporting |
-
-I’m studying commerce at IGNOU and 2D animation at Arena Animation. I’m also developing VAREN, my growth marketing agency project.
+I study commerce at IGNOU and 2D animation at Arena Animation. I’m also developing VAREN, my growth marketing agency project.
 
 ## Contribution timeline
 
-<a href="https://github.com/pvaour-code#js-contribution-activity-description">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/contribution-base.png">
-    <img src="assets/contribution-cut.gif" width="1080" alt="GitHub activity snapshot, 19 November 2026. The playhead marks 4 contributions on 9 May, 1 on 28 September and 6 on 19 November.">
-  </picture>
-</a>
+<a href="https://github.com/pvaour-code#js-contribution-activity-description"><img width="840" src="assets/activity-snapshot.svg" alt="GitHub snapshot dated 19 November 2026. Four contributions on 9 May, one on 28 September and six on 19 November."></a>
 
-[View the live contribution calendar](https://github.com/pvaour-code#js-contribution-activity-description)
+[View my live GitHub activity](https://github.com/pvaour-code#js-contribution-activity-description)
 
 ## Connect
 
-[Portfolio](https://altafhusain.netlify.app/) · [Get in touch](https://altafhusain.netlify.app/#contact)
+For performance creative, video production or a lead automation project, send me the brief and the outcome you want to measure.
 
-<!-- Replace each placeholder below, then move its line outside this comment.
+[Watch my work](https://altafhusain.netlify.app/#video-editing) · [Email me](mailto:pvaour@gmail.com) · [Download my CV](https://altafhusain.netlify.app/cv/altaf-husain-cv.pdf)
+
+<!-- Add verified social links here when ready.
 - [LinkedIn](YOUR_LINKEDIN_URL)
 - [Instagram / Portfolio](YOUR_INSTAGRAM_OR_PORTFOLIO_URL)
-- [Business email](mailto:YOUR_BUSINESS_EMAIL)
 -->
