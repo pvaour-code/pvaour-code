@@ -1,6 +1,8 @@
 <a href="https://altafhusain.netlify.app/">
   <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/gojo-mobile.webp">
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/gojo-poster.webp">
+    <source media="(max-width: 600px)" srcset="assets/gojo-mobile.gif">
     <img width="960" src="assets/gojo-timeline.gif" alt="Altaf Husain. Gojo stands beside an editing timeline as the playhead moves from Hook to Cut to Launch.">
   </picture>
 </a>
@@ -9,16 +11,16 @@
 
 # Altaf Husain · Performance Creative Specialist
 
-I’m based in Delhi. I write, shoot and edit ads, then run them on Meta. Watching where people drop off helps me choose the next cut. Tracking what happens after an enquiry helps me judge whether the ad reached the right buyer.
+I’m a Delhi-based editor and performance marketer. I take an ad from script to shoot to Meta campaign. When people leave early, I revisit the opening shot. When an ad brings in enquiries, I check what happens after the first reply.
 
-[Watch my work](https://altafhusain.netlify.app/#video-editing) · [Projects](#projects) · [Connect](#connect)
+[Featured edit](#featured-edit) · [Projects](#projects) · [Contribution timeline](#contribution-timeline) · [Connect](#connect)
 
 ## Featured edit
 
 <a href="https://drive.google.com/file/d/1lOWCoYUu7LxhB78B4cBXJxBS0PpAn3Bu/view">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/raw-to-edit.webp">
-    <img width="860" src="assets/raw-edit-reveal.gif" alt="Watch ARV.1. A vertical wipe reveals the finished colour edit of the same presenter. The full side-by-side reel runs 23 seconds.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/reel-rest.webp">
+    <img width="860" src="assets/reel-cut.gif" alt="Watch ARV.1. A vertical wipe reveals the finished colour edit of the same presenter. The full side-by-side reel runs 23 seconds.">
   </picture>
 </a>
 
@@ -27,7 +29,7 @@ I’m based in Delhi. I write, shoot and edit ads, then run them on Meta. Watchi
 <details>
 <summary><strong>Inside the edit</strong></summary>
 
-ARV.1 puts two versions of the same presenter side by side. Follow her face in the monochrome frame, then look at the warm light behind her in the colour edit. With the subject held constant, it’s easier to see what the grade contributes.
+Watch the presenter’s face as the wipe crosses the frame, then look at the warm light behind her. Seeing the same shot twice makes the colour grade easier to judge. The full 23-second reel shows both versions side by side.
 
 </details>
 
@@ -42,10 +44,6 @@ ARV.1 puts two versions of the same presenter side by side. Follow her face in t
 
 </details>
 
-## Creator background
-
-I grew my YouTube channel to **800K+ subscribers and 100M+ views** and earned a Silver Play Button. I wrote the scripts, designed the thumbnails and edited the videos. One habit I carried into ads is checking the thumbnail against the first shot. If they promise different things, that’s where I start the next edit. [More about my experience](https://altafhusain.netlify.app/#experience)
-
 ## Projects
 
 | Project | What I’m working on |
@@ -58,33 +56,50 @@ I grew my YouTube channel to **800K+ subscribers and 100M+ views** and earned a 
 
 ## Tools & Stack
 
-| Workflow | Tools | What I use them for |
-| --- | --- | --- |
-| Create | Premiere Pro, After Effects, DaVinci Resolve, Photoshop | Cut footage, grade a shot, animate type and design thumbnails. |
-| Test | Meta Ads, Google Ads | Compare hooks and offers, review click-through and lead quality. |
-| Explore | Runway, Higgsfield, Veo, ChatGPT, Claude | Draft briefs and try alternative openings before a reshoot. |
-| Automate | Google Sheets, Apps Script | Assign enquiries, track follow-ups and prepare reports. |
+| Workflow | Tools and practice |
+| --- | --- |
+| **Create** | Premiere Pro and DaVinci Resolve for the cut and grade. After Effects for motion type. Photoshop for thumbnails. |
+| **Test** | Meta Ads and Google Ads for comparing hooks, offers and the quality of enquiries. |
+| **Explore** | ChatGPT and Claude for briefs. Runway, Higgsfield and Veo for trying another opening before a reshoot. |
+| **Automate** | Google Sheets and Apps Script for lead assignment, follow-up and reporting. |
 
-### CRM walkthrough
+## CRM walkthrough
 
 A fictional buyer asks for a catalogue. A rep takes ownership and schedules a call for 11:00 the next day.
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/crm-demo.webp">
-  <img width="860" src="assets/crm-demo.gif" alt="Fictional lead 1042 requests a catalogue at 10:02. Demo Rep A takes ownership at 10:03 and schedules a call for 11:00 the next day.">
+  <source media="(max-width: 600px)" srcset="assets/crm-handoff-mobile.svg">
+  <img width="960" src="assets/crm-handoff.svg" alt="Example lead. 10:02, a catalogue request arrives. 10:03, Demo Rep A takes ownership. 10:05, a call is scheduled for 11:00 tomorrow.">
 </picture>
+
+## Creator background
+
+I grew my YouTube channel to **800K+ subscribers and 100M+ views** and earned a Silver Play Button. I wrote the scripts, designed the thumbnails and edited the videos. One habit I carried into ads is checking the thumbnail against the first shot. If they promise different things, that’s where I start the next edit. [More about my experience](https://altafhusain.netlify.app/#experience)
 
 I study commerce at IGNOU and 2D animation at Arena Animation. I’m also developing VAREN, my growth marketing agency project.
 
 ## Contribution timeline
 
-<a href="https://github.com/pvaour-code#js-contribution-activity-description"><img width="840" src="assets/activity-snapshot.svg" alt="GitHub snapshot dated 19 November 2026. Four contributions on 9 May, one on 28 September and six on 19 November."></a>
+<a href="https://github.com/pvaour-code#js-contribution-activity-description">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/activity-mobile.svg">
+    <img width="960" src="assets/activity-calendar.svg" alt="Public GitHub calendar through 20 November 2026. 13 contributions across three days. 4 on 9 May, 1 on 28 September and 8 on 19 November.">
+  </picture>
+</a>
 
-[View my live GitHub activity](https://github.com/pvaour-code#js-contribution-activity-description)
+[Open the live calendar](https://github.com/pvaour-code#js-contribution-activity-description) · [Browse profile commits](https://github.com/pvaour-code/pvaour-code/commits/main/)
+
+<details>
+<summary><strong>What I shipped in November</strong></summary>
+
+- [Added the raw-to-edit comparison and CRM walkthrough](https://github.com/pvaour-code/pvaour-code/commit/bae9f65b17c406455c59f40273ed084e926f2b09).
+- [Introduced the Gojo editing timeline and project covers](https://github.com/pvaour-code/pvaour-code/commit/c49e03da5263d3e9529d67c48710d6dc78ce54b4).
+
+</details>
 
 ## Connect
 
-For performance creative, video production or a lead automation project, send me the brief and the outcome you want to measure.
+Working on an ad? Send me the cut, the audience and the one thing you want viewers to do next.
 
 [Watch my work](https://altafhusain.netlify.app/#video-editing) · [Email me](mailto:pvaour@gmail.com) · [Download my CV](https://altafhusain.netlify.app/cv/altaf-husain-cv.pdf)
 
